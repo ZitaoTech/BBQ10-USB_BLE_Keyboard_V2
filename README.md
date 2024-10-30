@@ -4,6 +4,7 @@
 
 ### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 ### [Ready to Buy? Click Here!](#where-to-buy---)  
+### [How to customize the keymap](https://github.com/ZitaoTech/zmk_config_Q10_V2)  
 ## Compare of the 4 Wireless keyboards:  
 |Keyboard Type |Dimension |Trackpad Backlight |Layout |
 |:---|:---|:---    |:---  |
