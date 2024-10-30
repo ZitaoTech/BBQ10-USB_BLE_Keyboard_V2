@@ -1,4 +1,7 @@
 # BBQ10-USB_BLE_Keyboard_V2  
+![Q10_V2_Black_1](https://github.com/user-attachments/assets/aea1c230-aa9c-410f-ba6c-841dc25e598b)
+![Q10_V2_White_1](https://github.com/user-attachments/assets/d0aefe8d-5d37-408d-84dc-086ba52c907e)
+
 ### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 ### [Ready to Buy? Click Here!](#where-to-buy---)  
 ## Compare of the 4 Wireless keyboards:  
