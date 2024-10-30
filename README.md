@@ -63,7 +63,6 @@ How to check the Bluetooth version of your device: google (your device name) lik
 ## <a name='Where to buy  '>Where to buy   </a>  
 
 **Pay with US dollar**: [Tindie](https://www.tindie.com/products/zitaotech/blackberry-q10-bleusb-keyboard/)  
-**Pay with Euro**: [Lectronz](https://lectronz.com/products/blackberry-q10-bleusb-keyboard)  
 
 # <a name='How to use this keyboard  '>How to use this keyboard   </a>  
 ## <a name='Concept of Layer   '>Concept of Layer
