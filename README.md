@@ -185,8 +185,8 @@ The picture below shows the outerline dimension of the keyboard
  ![BBQ10_V2_dimension](https://github.com/user-attachments/assets/73aa1856-9a20-49ee-8af0-11cb5c7a7988)
 Thickness of the keyboard: 13.2mm  
 ## <a name='Weight  '>Weight   </a>  
-Without the battery the weight of the keyboard is 41.3 g.  
-With the battery the weight of the keyboard is 60.7 g.  
+Without the battery the weight of the keyboard is 42.1 g.  
+With the battery the weight of the keyboard is 61.5 g.  
 ## <a name='How to correctly assemble the battery  '>How to correctly assemble the battery   </a>  
 First, remove the battery cover like this:  
 <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/battery_remove.png" width = "300" height = "320" alt="BLE VERSION CHECK" align=center />  
